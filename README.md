@@ -6,5 +6,6 @@
   <li>Array e Métodos</li>
   <li>Objetos</li>
   <li>Criptografia</li>
+  <li>Testes</li>
   <li>Exercícios</li>
 </ul>
